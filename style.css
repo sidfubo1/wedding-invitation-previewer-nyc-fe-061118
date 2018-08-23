@@ -19,7 +19,7 @@ header {
 
 .grid-box {
   padding: 2%;
-  display: block;
+ 
   justify-content: center;
   /*height and width are due to size of theme images*/
   height: 646px;
