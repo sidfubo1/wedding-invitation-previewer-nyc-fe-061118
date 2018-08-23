@@ -19,7 +19,7 @@ header {
 
 .grid-box {
   padding: 2%;
- 
+  display: block;
   justify-content: center;
   /*height and width are due to size of theme images*/
   height: 646px;
@@ -45,7 +45,6 @@ button {
   position: relative;
   background-image: url('./theme-1.png');
   background-repeat: no-repeat;
-  border: solid white;
   width: 430px;
 }
 /*Below css formats the text on the invitation card*/
