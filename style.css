@@ -12,14 +12,12 @@ header {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto;
-  /*border: 1px dashed;*/
   width: 75%;
   /*grid-column-gap: 20px;*/ /*later to be converted to %*/
   margin: 0 auto;
 }
 
 .grid-box {
-  /*border: 1px solid;*/
   padding: 2%;
   display: block;
   justify-content: center;
